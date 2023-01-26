@@ -23,8 +23,8 @@
 * ICA15
 
 # Weekly Assignments
-* WA1
-* [WA2](emhe3766.github.io/WA/WA2.html)
+* [WA1](https://emhe3766.github.io/WA/WA1.html)
+* [WA2](https://emhe3766.github.io/WA/WA2.html)
 * WA3
 * WA4
 * WA5
