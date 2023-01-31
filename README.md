@@ -8,8 +8,8 @@
 # In-Class Assignments
 * ICA1
 * ICA2
-* ICA3
-* ICA4
+* [ICA3](https://emhe3766.github.io/ICA/ICA3a.html)
+* [ICA4](https://emhe3766.github.io/ICA/ICA4a.html)
 * ICA5
 * ICA6
 * ICA7
