@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CSS/ICA4a.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/ICA3b.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA4a.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3b.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674077734513</updated>
       <workItem from="1675189237924" duration="5472000" />
-      <workItem from="1675208010750" duration="2553000" />
+      <workItem from="1675208010750" duration="2903000" />
     </task>
     <servers />
   </component>
