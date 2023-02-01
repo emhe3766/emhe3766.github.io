@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS/ICA4a.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICA/ICA4a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/dove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/favorite-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/favorite-1_th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/favorite-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/favorite-2_th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/favorite-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/favorite-3_th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/favorite-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/favorite-4_th.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA3-part2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/ICA4a.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/ICA4a.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3a.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA4a.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA4a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WA/WA2.html" beforeDir="false" afterPath="$PROJECT_DIR$/WA/WA2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +34,29 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KW5vzAbXeoYgX5FUZxnm2DcqRA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\ICA" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674077734513</updated>
-      <workItem from="1675189237924" duration="646000" />
+      <workItem from="1675189237924" duration="5472000" />
+      <workItem from="1675208010750" duration="1992000" />
     </task>
     <servers />
   </component>
@@ -62,5 +83,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
