@@ -26,7 +26,7 @@
 # Weekly Assignments
 * [WA1](https://emhe3766.github.io/WA/WA1.html)
 * [WA2](https://emhe3766.github.io/WA/WA2.html)
-* WA3
+* [WA3](https://emhe3766.github.io/WA/WA3.html)
 * WA4
 * WA5
 * WA6
