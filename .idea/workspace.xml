@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/aliensPeace.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/boxingCats.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/creature.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/diamondAlien.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/dogSinging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/dogsFrolic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/labDog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/labLab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/orangeCat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/img/sunCat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/page1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/page2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/page3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/page4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html-midterm/page5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/aliensPeace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/boxingCats.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/creature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/diamondAlien.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/dogSinging.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/dogsFrolic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/labDog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/labLab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/orangeCat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/sunCat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/page4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-midterm/page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-midterm/page2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +66,7 @@
       <workItem from="1675959886478" duration="3486000" />
       <workItem from="1675989275624" duration="19000" />
       <workItem from="1676065889045" duration="603000" />
+      <workItem from="1676263936290" duration="695000" />
     </task>
     <servers />
   </component>
