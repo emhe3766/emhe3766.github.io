@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="" />
+    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/ICA5-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA/ICA5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/bottom-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/top-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +45,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IMG" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\ICA" />
     </key>
   </component>
@@ -63,6 +71,8 @@
       <workItem from="1675989275624" duration="19000" />
       <workItem from="1676065889045" duration="603000" />
       <workItem from="1676263936290" duration="4151000" />
+      <workItem from="1676268349110" duration="25000" />
+      <workItem from="1676392482684" duration="4059000" />
     </task>
     <servers />
   </component>
