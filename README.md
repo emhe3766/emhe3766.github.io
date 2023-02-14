@@ -11,7 +11,7 @@
 * [ICA3a](https://emhe3766.github.io/ICA/ICA3a.html)
 * [ICA3b](https://emhe3766.github.io/ICA/ICA3b.html)
 * [ICA4](https://emhe3766.github.io/ICA/ICA4.html)
-* ICA5
+* [ICA5](https://emhe3766.github.io/ICA/ICA5.html)
 * ICA6
 * ICA7
 * ICA8
