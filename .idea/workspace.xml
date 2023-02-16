@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="" />
+    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/WA5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/CU BUFFS HOCKEY LOGO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/Score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WA/WA5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +72,9 @@
       <workItem from="1676263936290" duration="4151000" />
       <workItem from="1676268349110" duration="25000" />
       <workItem from="1676392482684" duration="4403000" />
+      <workItem from="1676477244560" duration="51000" />
+      <workItem from="1676565442433" duration="533000" />
+      <workItem from="1676566102953" duration="1820000" />
     </task>
     <servers />
   </component>
