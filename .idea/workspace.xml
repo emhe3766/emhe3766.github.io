@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/ICA6/ica6-part1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/ICA6/ica6-part2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/ICA6/ica6-part3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA/ICA6/ica6-part1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA/ICA6/ica6-part2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ICA/ICA6/ica6-part3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/WA5.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/WA5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3b.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/dove.png" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/dove.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/favorite-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/favorite-1_th.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-1_th.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/favorite-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/favorite-2_th.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-2_th.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/favorite-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/favorite-3_th.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-3_th.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/favorite-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/favorite-4_th.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-4_th.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA3-part2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA3-part2/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +58,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IMG" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\ICA" />
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IMG" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -73,6 +90,9 @@
       <workItem from="1676565442433" duration="533000" />
       <workItem from="1676566102953" duration="3074000" />
       <workItem from="1676584230103" duration="483000" />
+      <workItem from="1676590678781" duration="9000" />
+      <workItem from="1676997859895" duration="276000" />
+      <workItem from="1676999139297" duration="550000" />
     </task>
     <servers />
   </component>
