@@ -11,6 +11,11 @@ body{
     background-color: mediumseagreen;
     position:relative;
 }
+#text1{
+    position: relative;
+    top: 10%;
+    left: 110%;
+}
 
 #box2{
     width: 73vw;
@@ -23,6 +28,10 @@ body{
     left: 40vw;
     background-color: mediumvioletred;
 }
+#text2{
+    position: absolute;
+    top: 27vh;
+}
 
 #box3{
 position: sticky;
@@ -31,3 +40,9 @@ height: 175vh;
 border-radius: 10px;
 background-color: orangered;
 }
+#text3{
+    position: sticky;
+    top: 20%;
+    font-size: 25px;
+}
+
