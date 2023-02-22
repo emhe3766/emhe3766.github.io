@@ -11,6 +11,23 @@ body{
     padding:5vw;
 }
 
+#flex-child1{
+    position: relative;
+    left: 48%;
+}
+
+#flex-child2{
+    position: absolute;
+    left: 75%;
+}
+#flex-child3{
+    position: absolute;
+    left: 22%;
+}
+#flex-child4{
+    position: absolute;
+    left: 0;
+}
 
 #grid-parent{
     display:grid;
@@ -23,32 +40,42 @@ body{
     
 }
 #no0{
-
+    grid-row: 4;
+    grid-column: 2;
 }
 #no1{
-
+    grid-row: 1;
+    grid-column: 1;
 }
 #no2{
-
+    grid-row: 1;
+    grid-column: 2;
 }
 #no3{
-
+    grid-row: 1;
+    grid-column: 3;
 }
 #no4{
-
+    grid-row: 2;
+    grid-column: 1;
 }
 #no5{
-
+    grid-row: 2;
+    grid-column: 2;
 }
 #no6{
-
+    grid-row: 2;
+    grid-column: 3;
 }
 #no7{
-
+    grid-row: 3;
+    grid-column: 1;
 }
 #no8{
-
+    grid-row: 3;
+    grid-column: 2;
 }
 #no9{
-
+    grid-row: 3;
+    grid-column: 3;
 }

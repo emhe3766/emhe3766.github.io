@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/ICA6/ica6-part1.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/ICA6/ica6-part1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/ICA6/ica6-part3.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/ICA6/ica6-part3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA6/ica6-part1.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA6/part1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA6/ica6-part2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA6/part2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA6/ica6-part3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA6/part3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/ICA6/ica6-part2.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/ICA6/ica6-part2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +76,7 @@
       <workItem from="1676590678781" duration="9000" />
       <workItem from="1676997859895" duration="276000" />
       <workItem from="1676999139297" duration="3318000" />
-      <workItem from="1677025170382" duration="167000" />
+      <workItem from="1677025170382" duration="1777000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1676999737471</created>
@@ -90,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676999737471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1677025352222</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677025352222</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1677025429227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677025429227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
