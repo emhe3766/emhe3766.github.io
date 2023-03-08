@@ -3,25 +3,24 @@
 body{
     display: flex;
     flex-direction: column;
-    background-color: #858786;
+    background-image: url("/IMG/black.jpg");
+    background-size: cover;
+    min-height: 100%;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
 }
-.title{
+.navbar{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-image: url("/IMG/black.jpg");
-    background-size: cover;
-    min-height: 100%;
 }
-.title h1, .title a{
+.navbar h1, .navbar a{
     text-decoration: none;
     color: #D2D7DF;
 }
 
-.navbar{
+.navbar ul{
     list-style: none;
 }
 
@@ -34,7 +33,7 @@ a:hover{
 }
 
 p, a{
-    color: #120309;
+    color: #D2D7DF;
     width: 600px;
     padding: 5px;
     text-align: center;
