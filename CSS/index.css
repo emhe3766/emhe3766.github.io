@@ -3,11 +3,17 @@
 body{
     display: flex;
     flex-direction: column;
-    background-image: url("/IMG/black.jpg");
-    background-size: cover;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
+    padding: 0;
+    margin: 0;
 }
+
+.background{
+    background-image: url("/IMG/black.jpg");
+    background-size: cover;
+}
+
 .navbar{
     display: flex;
     justify-content: space-between;
