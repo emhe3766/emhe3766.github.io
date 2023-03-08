@@ -46,7 +46,7 @@ p, a{
 }
 @media only screen and (max-width: 400px) {
     /*  phone  */
-    .navbar li{
+    .title li{
         padding: 5px;
         display: flex;
         flex-direction: row;
