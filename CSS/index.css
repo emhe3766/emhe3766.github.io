@@ -56,14 +56,15 @@ article p, article a{
 }
 @media only screen and (max-width: 400px) {
     /*  phone  */
+
     article p, article a{
     color: #D2D7DF;
     width: auto;
     padding: 5px;
     text-align: center;
     text-decoration: none;
+    }
 
-}
     .title li{
         padding: 5px;
         display: flex;

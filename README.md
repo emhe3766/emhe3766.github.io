@@ -1,8 +1,8 @@
 # emhe3766.github.io
 
 # Projects
-* HTML
-* CSS
+* [HTML](https://github.com/emhe3766/emhe3766.github.io/tree/main/html-midterm)
+* [CSS](https://emhe3766.github.io/)
 * JS
 
 # In-Class Assignments
