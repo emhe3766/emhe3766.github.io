@@ -3,7 +3,7 @@
 
 .background{
     background-image: url("/IMG/black.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
