@@ -12,7 +12,9 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background: url("/IMG/black.jpg") no-repeat left top;
+    background-image: url("/IMG/black.jpg");
+    background-size: cover;
+    min-height: 100%;
 }
 
 .navbar{
