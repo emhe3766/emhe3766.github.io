@@ -1,17 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
-body{
+
+.background{
+    background-image: url("/IMG/black.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     padding: 0;
     margin: 0;
-}
-
-.background{
-    background-image: url("/IMG/black.jpg");
-    background-size: cover;
 }
 
 .navbar{
@@ -37,12 +36,18 @@ a:hover{
     color: #9CE37D;
 }
 
-p, a{
+article{
+    top: 35%;
+    left: 50%;
+}
+
+article p, article a{
     color: #D2D7DF;
     width: 600px;
     padding: 5px;
     text-align: center;
     text-decoration: none;
+
 }
 
 @media only screen and (min-width: 1000px) {
