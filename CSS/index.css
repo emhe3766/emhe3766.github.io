@@ -29,18 +29,17 @@ body{
     display: inline-block;
     padding: 0 10px;
 }
-.navbar li a:hover{
+a:hover{
     color: #9CE37D;
 }
 
-p{
+p, a{
+    color: #120309;
     width: 600px;
     padding: 5px;
     text-align: center;
     text-decoration: none;
 }
-
-
 
 @media only screen and (min-width: 1000px) {
     /*  large desktop  */
@@ -49,5 +48,7 @@ p{
     /*  phone  */
     .navbar li{
         padding: 5px;
+        display: flex;
+        flex-direction: row;
     }
 }
