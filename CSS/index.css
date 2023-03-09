@@ -39,24 +39,31 @@ a:hover{
 }
 
 .bio{
-    background-color: #344e41;
     padding: 5px;
 }
 .bio h2{
     color: #D2D7DF;
     padding: 5px;
     position: relative;
-    left: 5%
+    left: 6%
 }
 
-.bio p, .bio a{
+.bio p{
+    color: #D2D7DF;
+    width: 700px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    left: 5%;
+}
+.bio a{
     color: #D2D7DF;
     width: 600px;
     padding: 5px;
     text-align: center;
     text-decoration: none;
     position: relative;
-    left: 5%
 }
 
 @media only screen and (min-width: 1000px) {
@@ -64,7 +71,7 @@ a:hover{
 }
 @media only screen and (max-width: 400px) {
     /*  phone  */
-    article p, article a{
+    article p{
     color: #D2D7DF;
     width: auto;
     padding: 5px;
