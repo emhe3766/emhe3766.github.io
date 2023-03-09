@@ -11,7 +11,7 @@ body{
 .background{
     background-image: url("/IMG/black.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
 }
 
 .navbar{
@@ -21,6 +21,7 @@ body{
     padding: 10px;
 }
 .navbar h1, .navbar a{
+    left: 10%;
     text-decoration: none;
     color: #D2D7DF;
 }
@@ -48,7 +49,6 @@ article p, article a{
     padding: 5px;
     text-align: center;
     text-decoration: none;
-
 }
 
 @media only screen and (min-width: 1000px) {
@@ -56,7 +56,6 @@ article p, article a{
 }
 @media only screen and (max-width: 400px) {
     /*  phone  */
-
     article p, article a{
     color: #D2D7DF;
     width: auto;
