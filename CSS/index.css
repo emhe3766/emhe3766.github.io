@@ -75,7 +75,8 @@ a:hover{
     left:60%;
     width: 500px;
     height: 500px;
-    background-image: url("../IMG/earth.png");
+    background: url("../IMG/earth.png") repeat-x 0 / 100% auto;
+    transform: rotate(2deg);
     background-color: #344e41;
     border-radius: 50%;
     background-size: cover;
@@ -83,6 +84,7 @@ a:hover{
     animation: spin 30s linear alternate infinite;
 }
 @keyframes spin{
+
     100%{background-position: 100%}
 }
 
