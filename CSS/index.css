@@ -75,18 +75,38 @@ a:hover{
         object-fit: none;
     }
 }
-
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 700px) {
     /*  phone  */
-    article p{
+    .bio{
+        padding: 2px
+    }
+    .bio p{
     color: #D2D7DF;
-    width: 300px;
+    width: auto;
     padding: 5px;
     text-align: center;
     text-decoration: none;
     }
 
-    .title li{
+    .navbar li{
+        position: relative;
+        padding: 5px;
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    /*  phone  */
+    .bio p{
+    color: #D2D7DF;
+    width: auto;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    }
+
+    .navbar li{
         position: relative;
         padding: 5px;
         display: flex;
