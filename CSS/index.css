@@ -9,7 +9,7 @@ body{
     margin: 0;
 }
 .background{
-    background-image: url("/IMG/black.jpg");
+    background-image: url("/IMG/space.jpg");
     background-size: cover;
     /*background-repeat: no-repeat;*/
 }
