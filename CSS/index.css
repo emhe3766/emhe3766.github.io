@@ -80,10 +80,9 @@ a:hover{
     border-radius: 50%;
     background-size: cover;
     box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
-    animation: spin 30s linear alternate infinite;
+    animation: spin 30s linear infinite;
 }
 @keyframes spin{
-
     100%{background-position: 100%}
 }
 
@@ -96,7 +95,6 @@ a:hover{
     }
 }
 @media only screen and (max-width: 700px) {
-    /*  phone  */
     .bio{
         padding: 2px
     }
@@ -107,7 +105,6 @@ a:hover{
     text-align: center;
     text-decoration: none;
     }
-
     .navbar li{
         position: relative;
         padding: 5px;
@@ -120,7 +117,6 @@ a:hover{
 }
 
 @media only screen and (max-width: 400px) {
-    /*  phone  */
     .bio p{
         color: #D2D7DF;
         width: auto;
@@ -128,7 +124,6 @@ a:hover{
         text-align: center;
         text-decoration: none;
     }
-
     .navbar li{
         position: relative;
         padding: 5px;
