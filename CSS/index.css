@@ -9,6 +9,7 @@ body{
     margin: 0;
 }
 .background{
+    background-color: #001233;
     background-image: url("../IMG/space.jpg");
     background-size: cover;
 }
@@ -79,7 +80,7 @@ a:hover{
     /*  phone  */
     article p{
     color: #D2D7DF;
-    width: auto;
+    width: 300px;
     padding: 5px;
     text-align: center;
     text-decoration: none;
