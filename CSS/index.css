@@ -83,10 +83,7 @@ a:hover{
     animation: spin 30s linear infinite;
 }
 @keyframes spin{
-    0%{background-position: 0}
-    50%{background-position: 100%}
-    100%{background-position: 200%}
-
+    100%{background-position: 100%}
 }
 
 @media only screen and (max-width: 1180px) {
