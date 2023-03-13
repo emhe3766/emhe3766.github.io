@@ -9,7 +9,7 @@ body{
     margin: 0;
 }
 .background{
-    background-image: url("/IMG/space.jpg");
+    background-image: url("../IMG/space.jpg");
     background-size: cover;
 }
 
@@ -44,7 +44,7 @@ a:hover{
     color: #D2D7DF;
     padding: 5px;
     position: relative;
-    left: 6%
+    left: 3%
 }
 
 .bio p{
@@ -54,7 +54,7 @@ a:hover{
     text-align: center;
     text-decoration: none;
     position: relative;
-    left: 5%;
+    left: 2%;
 }
 .bio a{
     color: #D2D7DF;
@@ -65,12 +65,16 @@ a:hover{
     position: relative;
 }
 
-/*@media only screen and (max-width: 1024px) {*/
-/*    .background{*/
-/*        left: 50%;*/
-/*        margin-left: -512px;*/
-/*    }*/
-/*}*/
+.bio a:hover{
+    color: #9CE37D;
+}
+
+@media only screen and (max-width: 1180px) {
+    .background{
+        object-fit: fill;
+    }
+}
+
 @media only screen and (max-width: 400px) {
     /*  phone  */
     article p{
