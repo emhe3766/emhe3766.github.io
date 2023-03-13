@@ -69,15 +69,29 @@ a:hover{
 .bio a:hover{
     color: #48cae4;
 }
-.planets{
-    width: 150px;
-    height: auto;
-    background-color: green;
+.fun{
+    position: absolute;
+    top:20%;
+    left:60%;
+    width: 500px;
+    height: 500px;
+    background-image: url("../IMG/earth.png");
+    background-color: #344e41;
+    border-radius: 50%;
+    background-size: cover;
+    box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
+    animation: spin 30s linear alternate infinite;
+}
+@keyframes spin{
+    100%{background-position: 100%}
 }
 
 @media only screen and (max-width: 1180px) {
     .background{
         object-fit: none;
+    }
+    .fun{
+        top:30%;
     }
 }
 @media only screen and (max-width: 700px) {
@@ -99,16 +113,19 @@ a:hover{
         display: flex;
         flex-direction: row;
     }
+    .fun{
+        top:50%;
+    }
 }
 
 @media only screen and (max-width: 400px) {
     /*  phone  */
     .bio p{
-    color: #D2D7DF;
-    width: auto;
-    padding: 5px;
-    text-align: center;
-    text-decoration: none;
+        color: #D2D7DF;
+        width: auto;
+        padding: 5px;
+        text-align: center;
+        text-decoration: none;
     }
 
     .navbar li{
@@ -116,5 +133,9 @@ a:hover{
         padding: 5px;
         display: flex;
         flex-direction: row;
+    }
+    .fun{
+        top:60%;
+        left:5%;
     }
 }
