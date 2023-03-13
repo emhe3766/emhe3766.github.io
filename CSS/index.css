@@ -75,9 +75,8 @@ a:hover{
     left:60%;
     width: 500px;
     height: 500px;
-    background: url("../IMG/earth.png") repeat-x 0 / 100% auto;
-    transform: rotate(2deg);
-    background-color: #344e41;
+    background: url("../IMG/earth.png") repeat;
+    transform: rotate(5deg);
     border-radius: 50%;
     background-size: cover;
     box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
