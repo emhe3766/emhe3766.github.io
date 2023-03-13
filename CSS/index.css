@@ -9,7 +9,7 @@ body{
     margin: 0;
 }
 .background{
-    background-color: #001233;
+    background-color: #000017;
     background-image: url("../IMG/space.jpg");
     background-size: cover;
 }
@@ -45,7 +45,7 @@ a:hover{
     color: #D2D7DF;
     padding: 5px;
     position: relative;
-    left: 3%
+    left: 4%
 }
 
 .bio p{
@@ -68,6 +68,11 @@ a:hover{
 
 .bio a:hover{
     color: #48cae4;
+}
+.planets{
+    width: 150px;
+    height: auto;
+    background-color: green;
 }
 
 @media only screen and (max-width: 1180px) {
