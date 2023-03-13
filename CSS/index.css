@@ -83,7 +83,13 @@ a:hover{
     animation: spin 30s linear infinite;
 }
 @keyframes spin{
-    100%{background-position: 100%}
+    0% {
+        transform: translate3d(0, 0, 0);
+    }
+    100% {
+        transform: translate3d(-1500px, 0, 0);
+    }
+    /*100%{background-position: 100%}*/
 }
 
 @media only screen and (max-width: 1180px) {
@@ -131,7 +137,7 @@ a:hover{
         flex-direction: row;
     }
     .fun{
-        top:60%;
+        top:65%;
         left:5%;
     }
 }
