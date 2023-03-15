@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ICA9</title>
+    <style>
+        #button{
+            border: 5px solid black;
+            border-radius: 20px;
+            background-color: white;
+            padding: 25px 50px;
+            width: 250px;
+            height: 150px;
+            font-size: 50px;
+            text-align: center;
+            justify-content: center;
+        }
+        #box{
+            font-size: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div id="button">
+        <p>Click me!</p>
+    </div>
+    <br>
+    <div id="box">
+        Input Name: <label><input name="name"></label>
+        <button id ="enter" onclick="alert('Hi there!')">Enter</button>
+    </div>
+    <script>
+        console.log("Hello World!");
+        let button = document.querySelector("#button");
+        let color = '#';
+        let digits = '0123456789ABCDEF';
+        function changeBtn() {
+            console.log("This worked!");
+            button.textContent = "Refresh For New Color";
+            for (let i = 0; i < 6; i++) {
+                // generate a random number between 0 and 15
+                let randomDigit = Math.floor(Math.random() * 16);
+                // append the random number to the color string
+                color += digits[randomDigit];
+            }
+            button.style.background = color;
+        }
+        button.addEventListener('click', changeBtn);
+
+        let boxalert = document.querySelector("#box");
+        const input = document.getElementById("name");
+        input.addEventListener("keypress", function boxalert() {
+            document.getElementById("enter").click();
+        });
+    </script>
+</body>
+</html>
