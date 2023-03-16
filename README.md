@@ -32,8 +32,7 @@
 * [WA5](https://emhe3766.github.io/WA/WA5.html)
 * [WA6](https://emhe3766.github.io/WA/WA6.html)
 * [WA7](https://emhe3766.github.io/WA/WA7.html)
-* WA8
-* WA9
+* [WA9](https://emhe3766.github.io/WA/WA9.html)
 * WA10
 * WA11
 * WA12
