@@ -7,7 +7,7 @@ const overlay = document.querySelector('.overlay');
 /* Declaring the array of image filenames */
 const pics = ['images/pic1.jpg', 'images/pic2.jpg', 'images/pic3.jpg', 'images/pic4.jpg', 'images/pic5.jpg']
 /* Declaring the alternative text for each image file */
-const alts = ['Closeup of a human eye', 'Marble', 'White and purple flowers', 'egyptian art', 'Butterfly']
+const alts = ['People laying on rocks', 'Ancient building ', 'Wheat Fields', 'Tropical Beach', 'Ice in Ocean']
 
 function setDisplay(p, a) {
     displayedImage.setAttribute('src', p);
