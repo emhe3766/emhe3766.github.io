@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA10/images/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WA/WA10/images/pic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA10/images/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WA/WA10/images/pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA10/images/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WA/WA10/images/pic3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA10/images/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WA/WA10/images/pic4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA10/images/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/WA/WA10/images/pic5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA10/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/WA/WA10/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA10/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WA/WA10/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,14 +128,7 @@
       <workItem from="1679413927269" duration="2733000" />
       <workItem from="1679498092010" duration="31000" />
       <workItem from="1679541527553" duration="2190000" />
-      <workItem from="1679585023004" duration="6728000" />
-    </task>
-    <task id="LOCAL-00016" summary="update">
-      <created>1678251918794</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1678251918794</updated>
+      <workItem from="1679585023004" duration="6771000" />
     </task>
     <task id="LOCAL-00017" summary="update">
       <created>1678253147757</created>
@@ -482,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679591039103</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="update">
+      <created>1679592945465</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1679592945465</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
