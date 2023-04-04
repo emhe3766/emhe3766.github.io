@@ -18,7 +18,7 @@
 * [ICA7](https://emhe3766.github.io/ICA/ICA7.html)
 * [ICA9](https://emhe3766.github.io/ICA/ICA9.html)
 * [ICA10](https://emhe3766.github.io/ICA/ICA10.html)
-* ICA11
+* [ICA11](https://emhe3766.github.io/ICA/ICA11.html)
 * ICA12
 * ICA13
 * ICA14
