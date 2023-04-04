@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/CSS/ICA11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICA/ICA11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/ICA11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/WA11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/WA11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WA/WA11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA11.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICA/ICA11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/ICA11.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/ICA11.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,21 +44,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ehend/OneDrive/Documents/GitHub/emhe3766.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ehend/OneDrive/Documents/GitHub/emhe3766.github.io/CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\CSS" />
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\JS" />
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\WA" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IMG" />
     </key>
@@ -137,14 +141,7 @@
       <workItem from="1679585023004" duration="6771000" />
       <workItem from="1679593356080" duration="653000" />
       <workItem from="1679637050987" duration="16000" />
-      <workItem from="1680622417733" duration="3375000" />
-    </task>
-    <task id="LOCAL-00018" summary="update">
-      <created>1678307588242</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1678307588242</updated>
+      <workItem from="1680622417733" duration="6440000" />
     </task>
     <task id="LOCAL-00019" summary="update">
       <created>1678311880050</created>
@@ -482,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679594011488</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="update">
+      <created>1680626132269</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1680626132275</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
