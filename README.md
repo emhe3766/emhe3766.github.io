@@ -6,8 +6,6 @@
 * JS
 
 # In-Class Assignments
-* ICA1
-* ICA2
 * [ICA3a](https://emhe3766.github.io/ICA/ICA3a.html)
 * [ICA3b](https://emhe3766.github.io/ICA/ICA3b.html)
 * [ICA4](https://emhe3766.github.io/ICA/ICA4.html)
@@ -19,7 +17,7 @@
 * [ICA9](https://emhe3766.github.io/ICA/ICA9.html)
 * [ICA10](https://emhe3766.github.io/ICA/ICA10.html)
 * [ICA11](https://emhe3766.github.io/ICA/ICA11.html)
-* ICA12
+* [ICA12](https://emhe3766.github.io/ICA/ICA12.html)
 * ICA13
 * ICA14
 * ICA15
@@ -35,7 +33,7 @@
 * [WA9](https://emhe3766.github.io/WA/WA9.html)
 * [WA10](https://emhe3766.github.io/WA/WA10/assignment10.html)
 * [WA11](https://emhe3766.github.io/WA/WA11.html)
-* WA12
+* [WA12](https://emhe3766.github.io/WA/WA12.html)
 * WA13
 * WA14
 * WA15
