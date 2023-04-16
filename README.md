@@ -34,6 +34,6 @@
 * [WA10](https://emhe3766.github.io/WA/WA10/assignment10.html)
 * [WA11](https://emhe3766.github.io/WA/WA11.html)
 * [WA12](https://emhe3766.github.io/WA/WA12.html)
-* WA13
+* [WA13](https://emhe3766.github.io/WA/WA13.html)
 * WA14
 * WA15
