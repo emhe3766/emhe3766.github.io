@@ -39,8 +39,8 @@ const output = document.querySelector('.output');
 let outputInt = parseInt(output.textContent);
 console.log(outputInt);
 
-// const minusButton = document.querySelector('.minus-button').addEventListener('click', minus);
-// const plusButton = document.querySelector('.plus-button').addEventListener('click', plus);
+const minusButton = document.querySelector('.minus-button').addEventListener('click', minus);
+const plusButton = document.querySelector('.plus-button').addEventListener('click', plus);
 const resetButton = document.querySelector('.reset-button').addEventListener('click', reset);
 const randomButton = document.querySelector('.random-button').addEventListener('click', Random);
 const submitButton = document.querySelector('.submit-button').addEventListener('click', submit);
@@ -69,19 +69,19 @@ function randomRGB() {
 }
 
 class Ball{
-    constructor(x, y, xVel, yVel, color, size, pm) {
+    constructor(x, y, xVel, yVel, color, size, p) {
         this.x = x;
         this.y = y;
         this.xVel = xVel;
         this.yVel = yVel;
         this.color = color;
         this.size = size;
-        this.pm = pm;
+        this.p = p;
     }
     draw(){
         ctx.beginPath();
         ctx.fillStyle = this.color;
-        ctx.arc(this.x, this.y, this.size, 0, 2*Math.PI, this.pm);
+        ctx.arc(this.x, this.y, this.size, 0, 2*Math.PI, this.p);
         ctx.fill();
     }
     update() {
@@ -119,15 +119,6 @@ class Ball{
     }
 }
 
-// const plusButton = document.querySelector('.plus-button').addEventListener('click', plus);
-function getMousePos(canvas, event) {
-  var rect = canvas.getBoundingClientRect();
-  return {
-    x: event.clientX - rect.left,
-    y: event.clientY - rect.top,
-  };
-}
-
 const balls = [];
 // how many balls we want
 while (balls.length < 25) {
@@ -143,7 +134,6 @@ while (balls.length < 25) {
 
     balls.push(ball);
 }
-// const plusButton = document.querySelector('.plus-button').addEventListener('click', plus);
 
 function loop() {
   ctx.fillStyle = "rgba(0, 0, 0, 0.25)";
@@ -157,22 +147,6 @@ function loop() {
 
   requestAnimationFrame(loop);
 }
-
-function getXY(canvas, event){ //adjust mouse click to canvas coordinates
-  const rect = canvas.getBoundingClientRect()
-  const y = event.clientY - rect.top
-  const x = event.clientX - rect.left
-  return {x:x, y:y}
-}
-
-document.addEventListener("click",  function (plus) {
-  const XY = getXY(canvas, plus)
-  //use the shape data to determine if there is a collision
-  if(ctx.isPointInPath(path, XY.x, XY.y)) {
-    // Do Something with the click
-    plus()
-  }
-}, false)
 
 loop();
 

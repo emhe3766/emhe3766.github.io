@@ -1,3 +1,12 @@
-/*p {*/
-/*    color: white;*/
-/*}*/
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+}
+
+p{
+    padding: 5px;
+}
+
