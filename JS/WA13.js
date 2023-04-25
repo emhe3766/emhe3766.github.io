@@ -16,6 +16,7 @@ function minus() {
     if (outputInt > 0) {
     outputInt -=1;
     output.textContent = outputInt; }
+    return output.textContent;
 
 }
 function plus() {
@@ -23,11 +24,13 @@ function plus() {
     outputInt +=1;
     output.textContent = outputInt;
     }
+    return output.textContent;
 }
 
 function Random() {
     outputInt = randomNumber(0, 100);
     output.textContent = outputInt;
+    return output.textContent;
 }
 
 function randomNumber(min, max) {
@@ -39,8 +42,8 @@ const output = document.querySelector('.output');
 let outputInt = parseInt(output.textContent);
 console.log(outputInt);
 
-const minusButton = document.querySelector('.minus-button').addEventListener('click', minus);
-const plusButton = document.querySelector('.plus-button').addEventListener('click', plus);
+// const minusButton = document.querySelector('.minus-button').addEventListener('click', minus);
+// const plusButton = document.querySelector('.plus-button').addEventListener('click', plus);
 const resetButton = document.querySelector('.reset-button').addEventListener('click', reset);
 const randomButton = document.querySelector('.random-button').addEventListener('click', Random);
 const submitButton = document.querySelector('.submit-button').addEventListener('click', submit);
@@ -65,23 +68,22 @@ function random(min, max) {
 
 // function to generate random color
 function randomRGB() {
-  return `rgb(${random(0, 255)},${random(0, 255)},${random(0, 255)})`;
+    return `rgb(${random(0, 255)},${random(0, 255)},${random(0, 255)})`;
 }
 
 class Ball{
-    constructor(x, y, xVel, yVel, color, size, p) {
+    constructor(x, y, xVel, yVel, color, size) {
         this.x = x;
         this.y = y;
         this.xVel = xVel;
         this.yVel = yVel;
         this.color = color;
         this.size = size;
-        this.p = p;
     }
     draw(){
         ctx.beginPath();
         ctx.fillStyle = this.color;
-        ctx.arc(this.x, this.y, this.size, 0, 2*Math.PI, this.p);
+        ctx.arc(this.x, this.y, this.size, 0, 2*Math.PI);
         ctx.fill();
     }
     update() {
@@ -113,6 +115,7 @@ class Ball{
 
           if (distance < this.size + ball.size) {
             ball.color = this.color = randomRGB();
+            Random();
           }
         }
       }
@@ -121,7 +124,7 @@ class Ball{
 
 const balls = [];
 // how many balls we want
-while (balls.length < 25) {
+while (balls.length < 10) {
     const size = random(10,30);  // determining the smallest and largest ball we could have
     const ball = new Ball(
         random(0 + size, width - size),
