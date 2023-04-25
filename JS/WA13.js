@@ -1,8 +1,4 @@
 
-function check() {
-    console.log('test');
-}
-
 function submit() {
     alert('Your volume is now: ' + output.textContent);
 }
@@ -12,20 +8,20 @@ function reset() {
     output.textContent = outputInt;
 }
 
-function minus() {
-    if (outputInt > 0) {
-    outputInt -=1;
-    output.textContent = outputInt; }
-    return output.textContent;
-
-}
-function plus() {
-    if (outputInt < 100) {
-    outputInt +=1;
-    output.textContent = outputInt;
-    }
-    return output.textContent;
-}
+// function minus() {
+//     if (outputInt > 0) {
+//     outputInt -=1;
+//     output.textContent = outputInt; }
+//     return output.textContent;
+//
+// }
+// function plus() {
+//     if (outputInt < 100) {
+//     outputInt +=1;
+//     output.textContent = outputInt;
+//     }
+//     return output.textContent;
+// }
 
 function Random() {
     outputInt = randomNumber(0, 100);
@@ -45,7 +41,7 @@ console.log(outputInt);
 // const minusButton = document.querySelector('.minus-button').addEventListener('click', minus);
 // const plusButton = document.querySelector('.plus-button').addEventListener('click', plus);
 const resetButton = document.querySelector('.reset-button').addEventListener('click', reset);
-const randomButton = document.querySelector('.random-button').addEventListener('click', Random);
+// const randomButton = document.querySelector('.random-button').addEventListener('click', Random);
 const submitButton = document.querySelector('.submit-button').addEventListener('click', submit);
 
 
