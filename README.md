@@ -35,5 +35,5 @@
 * [WA11](https://emhe3766.github.io/WA/WA11.html)
 * [WA12](https://emhe3766.github.io/WA/WA12.html)
 * [WA13](https://emhe3766.github.io/WA/WA13.html)
-* WA14
+* [WA14](https://emhe3766.github.io/WA/WA14.html)
 * WA15
