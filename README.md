@@ -3,7 +3,7 @@
 # Projects
 * [HTML](https://github.com/emhe3766/emhe3766.github.io/tree/main/html-midterm)
 * [CSS](https://emhe3766.github.io/)
-* JS
+* [JS](https://emhe3766.github.io/JS_FINAL/Balls.html)
 
 # In-Class Assignments
 * [ICA3a](https://emhe3766.github.io/ICA/ICA3a.html)
@@ -19,8 +19,6 @@
 * [ICA11](https://emhe3766.github.io/ICA/ICA11.html)
 * [ICA12](https://emhe3766.github.io/ICA/ICA12.html)
 * [ICA13](https://emhe3766.github.io/WA/WA13.html)
-* ICA14
-* ICA15
 
 # Weekly Assignments
 * [WA1](https://emhe3766.github.io/WA/WA1.html)
@@ -36,4 +34,3 @@
 * [WA12](https://emhe3766.github.io/WA/WA12.html)
 * [WA13](https://emhe3766.github.io/WA/WA13.html)
 * [WA14](https://emhe3766.github.io/WA/WA14.html)
-* WA15
