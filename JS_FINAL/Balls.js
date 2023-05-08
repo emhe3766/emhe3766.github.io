@@ -6,8 +6,8 @@ const ctx = canvas.getContext('2d');
 const width = canvas.width = window.innerWidth;
 const height = canvas.height = window.innerHeight;
 
-// let NewNumsBalls = 20;
-// let NewSpeedBalls = 5;
+let NewNumsBalls = 20;
+let NewSpeedBalls = 5;
 
 function Numball() {
     let NumsBalls = 20;
@@ -136,15 +136,3 @@ function loop() {
 
 loop();
 
-// const testBall = new Ball(100, 100, 2, 2, "red", 10);
-// // const testBall1 = new Ball(20, 60, 2, 2, "blue", 40);
-// // const testBall2 = new Ball(80, 20, 2, 2, "aquamarine", 60);
-// testBall.draw();
-
-// const i = 0;
-// while (i<100){
-//     testBall.update();
-//     i += 1;
-// }
-// testBall1.draw();
-// testBall2.draw();
