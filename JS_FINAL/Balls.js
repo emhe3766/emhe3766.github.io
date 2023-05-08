@@ -29,8 +29,9 @@ function speed() {
     if (SpeedBalls <= 0){
         SpeedBalls = prompt("Please pick a number greater than 0");
     }
-    NewSpeedBalls.append(SpeedBalls)
-    return NewSpeedBalls
+    return SpeedBalls;
+    // NewSpeedBalls.append(SpeedBalls)
+    // return NewSpeedBalls
 }
 
 const ballButton = document.querySelector('.ball-button').addEventListener('click', Numball);
