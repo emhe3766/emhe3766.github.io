@@ -10,13 +10,11 @@ let NewNumsBalls = 20;
 let NewSpeedBalls = 5;
 
 function Numball() {
-    let NumsBalls = 20;
+    let NumsBalls = 5;
     NumsBalls = prompt("How many balls do you want?");
-    loop();
     console.log(NumsBalls);
     if (NumsBalls <= 0){
         NumsBalls = prompt("Please pick a number greater than 0");
-        loop();
     }
     return NumsBalls;
     // NewNumsBalls.append(NumsBalls)
@@ -34,8 +32,18 @@ function speed() {
     // return NewSpeedBalls
 }
 
-const ballButton = document.querySelector('.ball-button').addEventListener('click', Numball);
-const speedButton = document.querySelector('.speed-button').addEventListener('click', speed);
+const ballButton = document.querySelector('.ball-button');
+const speedButton = document.querySelector('.speed-button');
+
+ballButton.addEventListener('click', function() {
+  NewNumsBalls = Numball();
+  resetBalls();
+});
+
+speedButton.addEventListener('click', function() {
+  NewSpeedBalls = speed();
+  resetBalls();
+});
 
 function random(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
@@ -106,19 +114,21 @@ class Ball{
 }
 
 const balls = [];
+async function resetBalls(){
 // how many balls we want
-while (balls.length < Numball) {
-    const size = random(1,30);  // determining the smallest and largest ball we could have
-    const ball = new Ball(
-        random(0 + size, width - size),
-        random(0 + size, height - size),
-        random(-5,speed),
-        random(-5, speed),
-        randomRGB(),
-        size
-    );
+    while (balls.length < NewNumsBalls) {
+        const size = random(1, 30);  // determining the smallest and largest ball we could have
+        const ball = new Ball(
+            random(0 + size, width - size),
+            random(0 + size, height - size),
+            random(-NewSpeedBalls, NewSpeedBalls),
+            random(-NewSpeedBalls, NewSpeedBalls),
+            randomRGB(),
+            size
+        );
 
-    balls.push(ball);
+        balls.push(ball);
+    }
 }
 
 function loop() {

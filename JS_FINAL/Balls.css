@@ -1,5 +1,6 @@
 html, body {
   margin: 0;
+    background: #1F1B34;
 }
 
 html {
@@ -7,12 +8,16 @@ html {
   height: 100%;
 }
 
+canvas {
+    background: #1F1B34;
+}
+
 body {
   overflow: hidden;
   height: inherit;
 }
 
-h1, p {
+h1 {
   font-size: 2rem;
   letter-spacing: -1px;
   position: absolute;
@@ -22,6 +27,28 @@ h1, p {
 
   color: white;
   text-shadow: 0 0 4px white;
+}
+.Ball{
+  font-size: 1rem;
+  letter-spacing: -1px;
+  position: absolute;
+  margin: 0;
+  top: 30px;
+  left: 5px;
+
+  color: white;
+  text-shadow: 0 0 3px white;
+}
+.Speed{
+  font-size: 1rem;
+  letter-spacing: -1px;
+  position: absolute;
+  margin: 0;
+  top: 50px;
+  left: 5px;
+
+  color: white;
+  text-shadow: 0 0 3px white;
 }
 .speed-button {
     font-size: 1rem;
@@ -33,6 +60,7 @@ h1, p {
 
     color: white;
     background-color: #1F51FF;
+    text-shadow: 0 0 1px white;
 }
 .ball-button{
     font-size: 1rem;
@@ -44,4 +72,5 @@ h1, p {
 
     color: white;
     background-color: #1F51FF;
+    text-shadow: 0 0 1px white;
 }
