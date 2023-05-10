@@ -1,15 +1,11 @@
 html, body {
   margin: 0;
-    background: #1F1B34;
+  background-color: black;
 }
 
 html {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   height: 100%;
-}
-
-canvas {
-    background: #1F1B34;
 }
 
 body {
@@ -18,12 +14,12 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
   letter-spacing: -1px;
   position: absolute;
   margin: 0;
   top: -4px;
-  right: 5px;
+  left: 5px;
 
   color: white;
   text-shadow: 0 0 4px white;
@@ -33,7 +29,7 @@ h1 {
   letter-spacing: -1px;
   position: absolute;
   margin: 0;
-  top: 30px;
+  top: 80px;
   left: 5px;
 
   color: white;
@@ -44,7 +40,7 @@ h1 {
   letter-spacing: -1px;
   position: absolute;
   margin: 0;
-  top: 50px;
+  top: 100px;
   left: 5px;
 
   color: white;
@@ -55,7 +51,7 @@ h1 {
     letter-spacing: -1px;
     position: absolute;
     margin: 0;
-    top: 4px;
+    top: 50px;
     left: 80px;
 
     color: white;
@@ -67,7 +63,7 @@ h1 {
     letter-spacing: -1px;
     position: absolute;
     margin: 0;
-    top: 4px;
+    top: 50px;
     left: 10px;
 
     color: white;

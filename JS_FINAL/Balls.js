@@ -6,12 +6,12 @@ const ctx = canvas.getContext('2d');
 const width = canvas.width = window.innerWidth;
 const height = canvas.height = window.innerHeight;
 
+
 let NewNumsBalls = 20;
 let NewSpeedBalls = 5;
 
 function Numball() {
-    let NumsBalls = 5;
-    NumsBalls = prompt("How many balls do you want?");
+    let NumsBalls = prompt("How many balls do you want?");
     console.log(NumsBalls);
     if (NumsBalls <= 0){
         NumsBalls = prompt("Please pick a number greater than 0");
@@ -21,8 +21,7 @@ function Numball() {
     // return NewNumsBalls
 }
 function speed() {
-    let SpeedBalls = 5;
-    SpeedBalls = prompt("How fast do you want them to go");
+    let SpeedBalls = prompt("How fast do you want them to go");
     console.log(SpeedBalls);
     if (SpeedBalls <= 0){
         SpeedBalls = prompt("Please pick a number greater than 0");
@@ -114,7 +113,7 @@ class Ball{
 }
 
 const balls = [];
-async function resetBalls(){
+function resetBalls(){
 // how many balls we want
     while (balls.length < NewNumsBalls) {
         const size = random(1, 30);  // determining the smallest and largest ball we could have
