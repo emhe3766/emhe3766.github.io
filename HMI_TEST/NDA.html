@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Signable PDF</title>
+  <script src="https://cdn.jsdelivr.net/npm/pdf-lib@2.0.2/dist/pdf-lib.js"></script>
+</head>
+<body>
+  <h1>Signable PDF</h1>
+  <div id="pdfContainer"></div>
+
+  <script>
+    async function displayPdf(pdfFile) {
+      const pdfUrl = URL.createObjectURL(pdfFile);
+
+      // Display the PDF in the iframe
+      const pdfViewer = document.createElement('iframe');
+      pdfViewer.src = pdfUrl;
+      pdfViewer.width = '100%';
+      pdfViewer.height = '1000px';
+      document.getElementById('pdfContainer').appendChild(pdfViewer);
+    }
+
+    async function addSignatureField(pdfBytes) {
+      const pdfDoc = await PDFLib.PDFDocument.load(pdfBytes);
+
+      const page = pdfDoc.getPages()[0];
+
+      // Create a signature form field
+      const signatureField = page.createSignatureField();
+
+      // Set the signature field's position and size
+      signatureField.setAppearance(
+        PDFLib.Font.Helvetica,
+        await PDFLib.EmbeddedFont.forName(PDFLib.StandardFonts.Helvetica),
+        16
+      );
+
+      // Add the signature field to the page
+      const widget = signatureField.getWidgets()[0];
+      widget.setPage(page);
+      widget.setX(100);  // Adjust the x-coordinate
+      widget.setY(250);  // Adjust the y-coordinate
+      widget.setWidth(150); // Adjust the width
+      widget.setHeight(50); // Adjust the height
+
+      // Serialize the modified PDF and create a blob
+      const modifiedPdfBytes = await pdfDoc.save();
+      const modifiedPdfBlob = new Blob([modifiedPdfBytes], { type: 'application/pdf' });
+
+      // Display the modified PDF in the iframe
+      const modifiedPdfUrl = URL.createObjectURL(modifiedPdfBlob);
+      const pdfViewer = document.createElement('iframe');
+      pdfViewer.src = modifiedPdfUrl;
+      pdfViewer.width = '100%';
+      pdfViewer.height = '1000px';
+      document.getElementById('pdfContainer').appendChild(pdfViewer);
+    }
+
+    // Load and display the initial PDF
+    fetch('/HMI_TEST/HMI_NDA_2023.pdf')
+      .then(response => response.arrayBuffer())
+      .then(pdfBytes => {
+        displayPdf(new Blob([pdfBytes], { type: 'application/pdf' }));
+        addSignatureField(pdfBytes);
+      })
+      .catch(error => {
+        console.error('Error loading PDF:', error);
+      });
+  </script>
+</body>
+</html>

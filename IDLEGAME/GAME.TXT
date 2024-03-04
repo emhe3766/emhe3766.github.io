@@ -1,0 +1,74 @@
+Let's make a game!
+	name:TBD!
+	by:Emily Henderson
+	desc:This is a simple idle game to showcase some of the basic functionalities of Idle Game Maker.<//>I'm not sure about my theme yet. I just want it to work!
+	created:3/4/2024
+	version:1
+
+Settings
+	background:stuff/meadow.jpg
+	building cost increase:115%
+	building cost refund:50%
+	spritesheet:icons, 48 by 48, stuff/StartHouse.png
+	stylesheet:stuff/basic.css
+
+Layout
+	use default
+
+Buttons
+	*houseButton
+		name:Make a bigger home!
+		desc:Click this house to get a bigger house!
+		on click:anim icon wobble
+		on click:yield 1 goldCoin
+		icon:stuff/Coin.png
+		class:bigButton hasFlares
+		icon class:shadowed
+		tooltip origin:bottom
+		tooltip class:red
+
+Resources
+	*goldCoin|goldCoins
+		name:GoldCoin|GoldCoins
+		desc:This you gold. You can use them to purchase things. Your goal is to have as much gold as possible!
+		icon:icons[0,0]
+		class:noBackground
+		show earned
+
+	*diamond|diamonds
+		name:Diamond|Diamonds
+		desc:These shiny diamonds are terribly rare and terribly precious!
+		icon:icons[0,1]
+		class:noBackground
+		hidden when 0
+
+Buildings
+	*TEMPLATE
+		on click:anim glow
+
+	*largerhouse|largerhouses
+		name:Largerhouse|Largerhouses
+		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 gold coin every 10 seconds.
+		icon:icons[3,0]
+		cost:15 goldCoins
+		on tick:yield 0.1 goldCoin
+		unlocked
+
+	*condo|condos
+		name:Condo|Condos
+		desc:A bit roomier than a cage, with enough space to hop around.<//><b>Effect:</b><.>Produces 1 gold coin every 2 seconds.
+		icon:icons[3,1]
+		cost:100 bunnies
+		on tick:yield 0.5 goldCoins
+		req:100 goldCoins:earned
+
+
+Upgrades
+	*TEMPLATE
+		on click:anim glow
+	*goldenTouch
+		name:Golden touch
+		desc:The delicate art of finding vegetables made of precious metals.<//><b>Effect:</b><.>1% chance of gaining 1 golden carrot per bunny click
+		icon:icons[2,5]
+		cost:1 goldCoin
+		req:1 goldCoin:earned

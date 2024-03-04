@@ -4,20 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update" />
+    <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/HMI_TEST/HMI_NDA_2023.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HMI_TEST/NDA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HMI_TEST/TEST.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HMI_TEST/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDLEGAME/GAME.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/ICA3a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/ICA3b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/ICA4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/ICA5-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/WA4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/WA5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/dove.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-1_th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-2_th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-3_th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-4_th.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA3a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICA/ICA5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/CU_HEADSHOT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Florida_Panthers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Panther-Roster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Panther-Seasons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Panther-Sidebar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Score.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/Sport.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/bottom-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/chris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG/top-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WA/WA2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WA/WA3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WA/WA4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WA/WA5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/aliensPeace.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/boxingCats.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/creature.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/diamondAlien.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/dogSinging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/dogsFrolic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/labDog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/labLab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/orangeCat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/img/sunCat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/page1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/page2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/page3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/page4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-midterm/page5.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -37,26 +101,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ehend/OneDrive/Documents/GitHub/emhe3766.github.io/CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\HMI_TEST" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\CSS" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\JS" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\WA" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io" />
-      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IMG" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io" />
@@ -159,13 +210,14 @@
       <workItem from="1683494828561" duration="8659000" />
       <workItem from="1683605009752" duration="32000" />
       <workItem from="1683671288504" duration="5194000" />
-    </task>
-    <task id="LOCAL-00043" summary="update">
-      <created>1678692511098</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1678692511098</updated>
+      <workItem from="1683682112175" duration="345000" />
+      <workItem from="1689719910208" duration="99000" />
+      <workItem from="1689720271263" duration="13000" />
+      <workItem from="1689720323083" duration="1028000" />
+      <workItem from="1691190968153" duration="5020000" />
+      <workItem from="1699469034640" duration="840000" />
+      <workItem from="1706650341527" duration="424000" />
+      <workItem from="1709596195740" duration="11000" />
     </task>
     <task id="LOCAL-00044" summary="update">
       <created>1678693045949</created>
@@ -503,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683681866067</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="update">
+      <created>1683682119091</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1683682119091</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,16 +583,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/JS/WA13.js</url>
-          <line>44</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
