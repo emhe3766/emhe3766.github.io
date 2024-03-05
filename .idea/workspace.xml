@@ -5,67 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/HMI_TEST/HMI_NDA_2023.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HMI_TEST/NDA.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HMI_TEST/TEST.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HMI_TEST/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IDLEGAME/GAME.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDLEGAME/basic.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/ICA3a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/ICA3b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/ICA4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/ICA5-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/WA4.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/WA5.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/dove.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-1_th.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-2_th.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-3_th.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/favorite-4_th.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3-part2/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA3a.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICA/ICA5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/CU_HEADSHOT.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Florida_Panthers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Panther-Roster.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Panther-Seasons.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Panther-Sidebar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Score.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/Sport.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/balloon-sq6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/bottom-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/chris.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IMG/top-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WA/WA5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/aliensPeace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/boxingCats.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/creature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/diamondAlien.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/dogSinging.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/dogsFrolic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/labDog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/labLab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/orangeCat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/img/sunCat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/page1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/page2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/page3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/page4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html-midterm/page5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDLEGAME/GAME.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/IDLEGAME/GAME.TXT" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +52,7 @@
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IDLEGAME" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\ICA" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IMG" />
@@ -218,20 +161,6 @@
       <workItem from="1699469034640" duration="840000" />
       <workItem from="1706650341527" duration="424000" />
       <workItem from="1709596195740" duration="11000" />
-    </task>
-    <task id="LOCAL-00044" summary="update">
-      <created>1678693045949</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1678693045949</updated>
-    </task>
-    <task id="LOCAL-00045" summary="update">
-      <created>1678693285064</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1678693285064</updated>
     </task>
     <task id="LOCAL-00046" summary="update">
       <created>1678693570151</created>
@@ -562,7 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683682119091</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="update">
+      <created>1709596539264</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1709596539265</updated>
+    </task>
+    <task id="LOCAL-00094" summary="update">
+      <created>1709596686755</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1709596686755</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

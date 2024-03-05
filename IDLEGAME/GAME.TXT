@@ -9,8 +9,8 @@ Settings
 	background:stuff/meadow.jpg
 	building cost increase:115%
 	building cost refund:50%
-	spritesheet:icons, 48 by 48, stuff/StartHouse.png
-	stylesheet:stuff/basic.css
+	spritesheet:icons, 48 by 48, IDLEGAME/stuff/StartHouse.png
+	stylesheet:basic.css
 
 Layout
 	use default
