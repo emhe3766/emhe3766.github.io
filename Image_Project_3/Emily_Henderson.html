@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Emily Henderson Final</title>
+    <meta name="description" content="Emily Henderson Final" />
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-light type="ambient" color="#445451"></a-light>
+      <a-light light="color: #ff6000; intensity: 2; type: point"></a-light>
+      <a-sky
+        src="https://cdn.glitch.global/853eb7ca-3c98-47d3-8af6-c95faea38487/Beach%20View.png?v=1713404692499"
+      ></a-sky>
+      <a-plane
+         src=""
+      ></a-plane>
+
+      <a-asset-item
+        id="city"
+        src="/Image_Project_3/Assets/scene.gltf"
+      ></a-asset-item>
+
+      <a-asset-item
+        id="plane"
+        src="/Image_Project_3/Assets/plane.gltf"
+      ></a-asset-item>
+
+      <a-gltf-model src="#city" position="1 0 0" scale="5 5 5"></a-gltf-model>
+      <a-gltf-model src="#plane" scale="5 5 5"></a-gltf-model>
+
+    </a-scene>
+  </body>
+</html>

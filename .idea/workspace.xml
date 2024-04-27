@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/scene.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/scene.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/003_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/logos_baseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/logos_emissive.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/material_3_emissive.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/material_baseColor.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/material_emissive.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/material_metallicRoughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/plane.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Emily_Henderson.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HMI_TEST/HMI_NDA_2023.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HMI_TEST/NDA.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HMI_TEST/TEST.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HMI_TEST/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Project 3/Airplane.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/plane.gltf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Project 3/Boat.gltf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +36,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -65,10 +79,11 @@
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image_Project_3\Assets" />
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image_Project_3\Assets\textures" />
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image Project 3\Assets" />
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image Project 3" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IDLEGAME" />
-      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io" />
-      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\ICA" />
-      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IMG" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -177,13 +192,7 @@
       <workItem from="1713813962368" duration="157000" />
       <workItem from="1713919898480" duration="518000" />
       <workItem from="1714080012157" duration="49000" />
-    </task>
-    <task id="LOCAL-00047" summary="update">
-      <created>1678693885036</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1678693885036</updated>
+      <workItem from="1714187878184" duration="4997000" />
     </task>
     <task id="LOCAL-00048" summary="update">
       <created>1678694140536</created>
@@ -521,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709597081303</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="update">
+      <created>1714188049731</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1714188049731</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
