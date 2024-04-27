@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/airplane.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/airplane.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image_Project_3/Night View.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Project_3/Assets/textures/plane.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Project_3/Assets/plane.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Project_3/Assets/textures/plane.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Project_3/Assets/plane.gltf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Project_3/Emily_Henderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Project_3/Emily_Henderson.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +30,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -68,10 +74,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image_Project_3\Assets" />
+      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image_Project_3" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image_Project_3\Assets\textures" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image Project 3\Assets" />
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\Image Project 3" />
-      <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\IDLEGAME" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -180,14 +186,8 @@
       <workItem from="1713813962368" duration="157000" />
       <workItem from="1713919898480" duration="518000" />
       <workItem from="1714080012157" duration="49000" />
-      <workItem from="1714187878184" duration="5732000" />
-    </task>
-    <task id="LOCAL-00049" summary="update">
-      <created>1678694279317</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1678694279317</updated>
+      <workItem from="1714187878184" duration="7898000" />
+      <workItem from="1714197104707" duration="1818000" />
     </task>
     <task id="LOCAL-00050" summary="update">
       <created>1678694445012</created>
@@ -525,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714194245654</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="update">
+      <created>1714194732691</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1714194732691</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

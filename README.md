@@ -34,4 +34,3 @@
 * [WA12](https://emhe3766.github.io/WA/WA12.html)
 * [WA13](https://emhe3766.github.io/WA/WA13.html)
 * [WA14](https://emhe3766.github.io/WA/WA14.html)
-* [ImageFinal](https://emhe3766.github.io/Image_Project_3/Emily_Henderson.html)

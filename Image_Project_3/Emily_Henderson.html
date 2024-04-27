@@ -7,14 +7,11 @@
   </head>
   <body>
     <a-scene>
-      <a-light type="ambient" color="#445451"></a-light>
-      <a-light light="color: #ff6000; intensity: 2; type: point"></a-light>
+      <a-light type="ambient" color="#CCC" postion="20 20 20"></a-light>
+      <a-light light="color: #ffaa75; intensity: 2; type: point" id="sunset" position="20 20 20"></a-light>
       <a-sky
-        src="https://cdn.glitch.global/853eb7ca-3c98-47d3-8af6-c95faea38487/Beach%20View.png?v=1713404692499"
+        src="/Image_Project_3/Night View.png"
       ></a-sky>
-      <a-plane
-         src=""
-      ></a-plane>
 
       <a-asset-item
         id="city"
@@ -23,7 +20,7 @@
 
       <a-asset-item
         id="plane"
-        src="/Image_Project_3/Assets/plane.gltf"
+        src="/Image_Project_3/Assets/airplane.gltf"
       ></a-asset-item>
 
       <a-gltf-model src="#city" position="1 0 0" scale="5 5 5"></a-gltf-model>
