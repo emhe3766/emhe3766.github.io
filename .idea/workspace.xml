@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/IDLEGAME/basic.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDLEGAME/GAME.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/IDLEGAME/GAME.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HMI_TEST/HMI_NDA_2023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HMI_TEST/NDA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HMI_TEST/TEST.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HMI_TEST/test.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -43,6 +46,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ehend\OneDrive\Documents\GitHub\emhe3766.github.io\HMI_TEST" />
@@ -161,13 +174,9 @@
       <workItem from="1699469034640" duration="840000" />
       <workItem from="1706650341527" duration="424000" />
       <workItem from="1709596195740" duration="11000" />
-    </task>
-    <task id="LOCAL-00046" summary="update">
-      <created>1678693570151</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1678693570152</updated>
+      <workItem from="1713813962368" duration="157000" />
+      <workItem from="1713919898480" duration="518000" />
+      <workItem from="1714080012157" duration="49000" />
     </task>
     <task id="LOCAL-00047" summary="update">
       <created>1678693885036</created>
@@ -505,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709596686755</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="update">
+      <created>1709597081303</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1709597081303</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
