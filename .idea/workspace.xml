@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44336848-3f17-47b9-8f54-1b1c5f12a5ec" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/scene.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/scene.gltf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/003_baseColor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/logos_baseColor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/logos_emissive.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/material_3_emissive.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/material_baseColor.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/material_emissive.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/material_metallicRoughness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/plane.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image_Project_3/Emily_Henderson.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image Project 3/Airplane.gltf" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Project_3/Assets/textures/plane.gltf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image Project 3/Boat.gltf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,14 +180,7 @@
       <workItem from="1713813962368" duration="157000" />
       <workItem from="1713919898480" duration="518000" />
       <workItem from="1714080012157" duration="49000" />
-      <workItem from="1714187878184" duration="4997000" />
-    </task>
-    <task id="LOCAL-00048" summary="update">
-      <created>1678694140536</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1678694140536</updated>
+      <workItem from="1714187878184" duration="5732000" />
     </task>
     <task id="LOCAL-00049" summary="update">
       <created>1678694279317</created>
@@ -537,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714188049731</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="update">
+      <created>1714194245654</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1714194245654</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
